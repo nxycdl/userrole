@@ -1,5 +1,5 @@
 #### SPRING BOOT MYBATISPLUS
-
+此项目还有一个nodejs的vue后台程序。这个程序仅仅提供了权限分配的功能。
 #### 数据库结构
 ![avatar](http://qiniu.nxycdl.com/userrole.jpg)
 #### 先看下这个参考文档（mybatis-plus 配置）
